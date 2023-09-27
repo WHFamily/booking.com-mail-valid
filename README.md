@@ -2,7 +2,7 @@
 This Code Need Proxy
 
 ## CONTACT / HELP
-Discord : https://discord.gg/xdrsyah
+Email : mailto:xdrsyah@gmail.com
 Follow my GitHub : https://github.com/xdrsyah
 
 **More updates will happen !**
