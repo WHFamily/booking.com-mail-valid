@@ -1,8 +1,9 @@
 # booking.com-mail-valid
 This Code Need Proxy
 
-## CONTACT / HELP
-Email : mailto:xdrsyah@gmail.com
+## Contact / Help
+Email : <a href="mailto:xdrsyah@gmail.com">xdrsyah@gmail.com</a> 
+
 Follow my GitHub : https://github.com/xdrsyah
 
 **More updates will happen !**
